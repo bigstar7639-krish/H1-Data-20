@@ -79,3 +79,6 @@ A: 3 - Geography
 Auto Quiz - Garden 🧠
 Q: When did Lithuania declare independence from the Soviet Union?
 A: March 11th, 1990 - History
+Auto Quiz - Park 🧠
+Q: During the Wars of the Roses (1455 - 1487) which Englishman was dubbed "the Kingmaker"?
+A: Richard Neville - History
