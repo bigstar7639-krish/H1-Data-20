@@ -91,3 +91,6 @@ A: O3 - Science & Nature
 Auto Quiz - Lion 🧠
 Q: What is the "powerhouse" of the Eukaryotic animal cell?
 A: Mitochondria - Science & Nature
+Auto Quiz - Horse 🧠
+Q: What is the capital of Cyprus?
+A: Nicosia - Geography
