@@ -79,3 +79,4 @@ Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Ap
 Train - bwb_KU-358-471 - last train from berlin
 Train - bwb_T4-APT-839 - How to raise and train a lhasa apso
 Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
+Flight - bwb_W9-BGH-193 - Training to fly military flight training 1907-1945
