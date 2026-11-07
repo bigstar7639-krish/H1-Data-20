@@ -89,3 +89,4 @@ Book - bwb_T3-BRL-524 - A Study of the Book of Acts
 Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
 Kavithai - kavithai-mozhi-thagarpum-amaipum - Kavithai Mozhi Thagarpum Amaipum
 Thirukkural - saurashtra-thirukkural - Saurashtra Thirukkural
+Thirukkural - TNLA-DB-5-1974-10-46-4-QH22_1974-01-22 - Thirukkural as a National Book
