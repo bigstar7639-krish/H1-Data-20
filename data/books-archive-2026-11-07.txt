@@ -76,3 +76,4 @@ Bike - bwb_S0-BCA-106 - Hit the Bike Trail
 Bike - cbfc-ecinepramaan-100010292400003826 - IKEA NLP BIKE BLR
 Car - bwb_S0-DQS-031 - For children cannot wait car les enfants ne peuvent attendre denn kinder konnen nicht warten
 Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
+Train - bwb_KU-358-471 - last train from berlin
