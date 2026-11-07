@@ -109,3 +109,6 @@ A: Fred Flintstone - Entertainment: Television
 Auto Quiz - Book 🧠
 Q: Which British monarch was also known as "William of Orange"?
 A: William III - History
+Auto Quiz - Kavithai 🧠
+Q: What year was Canada founded in?
+A: 1867 - History
