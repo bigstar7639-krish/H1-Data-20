@@ -110,3 +110,5 @@ Park - bwb_C0-BIW-721 - Shiloh national military park tennessee
 Park - bwb_P9-BHX-907 - Congestion and Crowding in the National Park System: Guidelines for Management and Research
 Elephant - bwb_C0-CBY-650 - Elephant and Castle : a reconstruction
 Elephant - youcantmaileleph0000loud - you can't mail an elephant
+Lion - bwb_S0-EKQ-267_13 - Funk & Wagnalls Standard Reference Encyclopedia Henry The Lion - Insanity
+Lion - LeGrandMasqueJuifOuLneDansLaPeauDuLion193649p - Le Grand Masque Juif Ou L'âne Dans La Peau Du Lion 1936 ( 49p)
