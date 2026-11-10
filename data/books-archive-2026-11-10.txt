@@ -172,3 +172,7 @@ Health - pubmed-PMC3890914 - Prevalence and pattern of psychiatric morbidity and
 Health - bwb_KU-083-625 - PUBLICATIONS OF THE WORLD HEALTH ORGANIZATION
 Music - churchmusicinhis0000winf_z3f4 - Church Music in History and Practice
 Music - RoozbehNematollahiSarzamineMadariPersianMusic2Video.Ir - Roozbeh Nematollahi Sarzamine Madari( Persian Music 2 Video. Ir)
+Movie - BobbyMovie_20170510_0356 - Bobby Movie
+Movie - movie-years_202205 - movie-years
+Temple - peoplestemplepeo0000phil - People's Temple, People's Tomb
+Temple - isbn_9782811219772 - l'oracle du temple de la jungle
